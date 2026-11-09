@@ -1,0 +1,6 @@
+{
+  "name": "agent-watch",
+  "version": "0.1.0",
+  "description": "A live pane showing which subagents are working, what tool each is on and how long it has run",
+  "types": "./types/index.d.ts"
+}

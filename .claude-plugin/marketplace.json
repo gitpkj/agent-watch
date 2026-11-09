@@ -1,0 +1,5 @@
+{
+  "name": "patrick-mods",
+  "owner": { "name": "Patrick Johnson" },
+  "plugins": [{ "name": "agent-watch", "source": "./" }]
+}
